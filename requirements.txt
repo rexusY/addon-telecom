@@ -68,10 +68,10 @@ six==1.16.0
 sklearn==0.0
 stack-data==0.2.0
 statsmodels==0.13.2
-tensorboard==1.7.0
+talos==1.2.3
+tensorboard==2.8.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
-tensorflow==1.7.0
 tensorflow-io-gcs-filesystem==0.24.0
 termcolor==1.1.0
 tf-estimator-nightly==2.8.0.dev2021122109
